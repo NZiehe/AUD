@@ -1,1 +1,5 @@
-Platz für Ihre eigenen Notebook.
+# Coding projects based on university lectures
+
+### !!! Some are not executeable because some uni-private relatet resources are missing !!!
+
+Written in c++ 11 in jupyter notebook
